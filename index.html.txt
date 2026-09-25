@@ -1,3 +1,0 @@
-<h1>Hola desde la aplicación de azure</h1>
-<b>Curso</b>
-<a href='Home.html'>Ir a home</a>
